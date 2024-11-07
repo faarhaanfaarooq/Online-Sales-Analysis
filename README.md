@@ -1,5 +1,5 @@
 ![Preview](Screenshot_53.png)
-![Demo](1107.mp4)
+[Click here to watch the demo video](1107.mp4)
 
 🚀 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞: 𝐎𝐧𝐥𝐢𝐧𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐢𝐧 𝐄𝐱𝐜𝐞𝐥 🚀
 
