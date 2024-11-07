@@ -1,3 +1,5 @@
+![Preview](Screenshot_53.png)
+
 🚀 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞: 𝐎𝐧𝐥𝐢𝐧𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐢𝐧 𝐄𝐱𝐜𝐞𝐥 🚀
 
 I’m excited to present my latest project—a comprehensive **Online Sales Dashboard** created in **Excel**! 🎉 This project allowed me to dive deep into sales data and transform complex numbers into insightful visualizations, empowering data-driven decisions for business growth.
